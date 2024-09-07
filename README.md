@@ -1,4 +1,4 @@
-# Pílulas Históricas
+# Pílulas Históricas - Imersão Dev Alura + Gemini 2024
 
 ## Descrição
 Pílulas Históricas é um projeto web interativo que permite aos usuários explorarem fatos históricos de forma rápida e fácil. 
